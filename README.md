@@ -20,6 +20,10 @@ You can do following things using this CMS:
 
 ## Demo
 
+
+https://user-images.githubusercontent.com/86085901/171119046-fa6593e3-1fae-4383-bec9-a3d0bd7b5c78.mp4
+
+
 ## Database Schema
 
 ![database schema](https://github.com/DivorceSurvivor/employee_tracker_hw12/blob/main/Assets/database.png?raw=true)
