@@ -7,7 +7,7 @@ async function createConnection() {
     host: "localhost",
     user: "root",
     database: "hw12",
-    password: "admin"
+    password: ""
   });
 }
 
